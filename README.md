@@ -15,7 +15,7 @@ Visitors browse beauty products, but not every visit becomes a purchase and not 
 - [Public research references](references.md)
 - [Analysis plan](analysis/analysis_plan.md)
 
-A formatted Word report is also provided separately as `Week1_Business_Problem_Report.docx` in the project handoff.
+A formatted Word version of the report is available as a separate download in the chat; the Markdown report is committed in this repository.
 
 ## KPIs
 - Product conversion rate
